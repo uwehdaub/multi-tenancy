@@ -1,0 +1,4 @@
+namespace: sealed-secrets-system
+resources:
+  - namespace.yaml
+  - controller.yaml
