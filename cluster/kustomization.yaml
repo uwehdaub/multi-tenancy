@@ -2,3 +2,4 @@ bases:
   - ./common/
   - ./sealed-secrets/
   - ./team1/
+  - ./newteam/
